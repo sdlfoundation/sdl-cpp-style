@@ -1,0 +1,3 @@
+[submodule "Sample/Dependencies/sdl-utils"]
+	path = Sample/Dependencies/sdl-utils
+	url = https://github.com/sdlfoundation/sdl-utils
